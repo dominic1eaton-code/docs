@@ -1,0 +1,15 @@
+
+generate a second 20+ kogi screen flows document with more screens. portfolio view has a modular/color coded grid view like in the image "Screenshot 2026-03-09 080847". portfolio inspect view has  a design like in image "Screenshot 2026-03-09 080900". Spaces/rooms view also has a modular/color coded grid design. also generate views for capital+capital-pools+fundraising, views for the exchange and marketplace, views for autonomous organizations+teams+cooperatives+collectives. use a dark mode modern UIUX design for all of the images
+
+Spaces/rooms view also has a modular/color coded grid design. also generate views for capital+capital-pools+fundraising, views for the exchange and marketplace, views for autonomous organizations+teams+cooperatives+collectives. use a dark mode modern UIUX design for all of the images
+
+
+can you make each of screens more compact and the grids modular side by side tiles, not long horizontal tiles, reflecting the uploaded images, and also have better color blending to make it easier to navigate the screens for a user?
+
+
+Compact square/near-square tiles side by side (not long horizontal strips)
+Modular grid — equal-size or proportional square cells like Behance/bookshop gallery
+Hierarchical grid — big hero + smaller side tiles for key items
+Rich gradient color blending across zone categories (like the teal→purple→orange card example)
+Everything packed tightly, no wasted vertical space
+
