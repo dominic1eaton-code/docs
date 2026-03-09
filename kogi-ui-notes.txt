@@ -13,3 +13,51 @@ Hierarchical grid — big hero + smaller side tiles for key items
 Rich gradient color blending across zone categories (like the teal→purple→orange card example)
 Everything packed tightly, no wasted vertical space
 
+
+
+
+
+kogi office
+
+- dashboard, portfolio, timeline + calenders + schedules + roadmaps + gantts, strategy + tactics + operations + governance, work - management system
+
+ kogi bank
+
+- link kogi wallet to bank+investment+trading accounts
+- subdivide into wallet types ~ personal spending wallet, operations wallet, investment wallet, trading+exchange wallet, marketplace wallet
+- capital, fundraising, investments - management system
+
+kogi exchange
+
+- bids, offers, deals, proposals, requests, due dilligence management, trading,
+
+kogi marketplace 
+
+- barter system, marketplace items+skills+labor+resources+assets+artifacts buying+selling, 
+
+kogi studio
+
+- ideas + concepts + prototypes + designs + blueprints + mockups + MVPs - management system
+- testing, testbeds
+- notes, binders, books, content, files - management system
+- tools, toolsets, toolkits, toolchains, - management system
+
+kogi community
+
+- feeds, timelines, posts
+- spaces, rooms, chats, messages
+
+
+kogi developer
+
+- developer tools+api+sdk
+- integrations+extensions
+
+kogi profile
+
+- user profiles, personas, settings, options, parameters, configurations, preferences
+
+
+kogi organizations
+
+- collectives, cooperatives, autonomous organizations, teams - management system
